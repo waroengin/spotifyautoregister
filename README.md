@@ -1,5 +1,5 @@
 # Preview
-[photo_2023-08-02_07-44-01.jpg]
+[photo_2023-08-02_07-44-01.jpg]](https://github.com/waroengin/spotifyautoregister/blob/main/photo_2023-08-02_07-44-01.jpg)
 
 
 # Cara penggunaan
