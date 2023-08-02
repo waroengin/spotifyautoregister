@@ -11,7 +11,7 @@ https://apkcombo.com/id/termux/com.termux/old-versions/0.119.1/
 2. pkg install git
 3. pkg install php
 4. termux-setup-storage
-5. git clone https://github.com/mza-xxdv/spotitit.git
+5. git clone https://github.com/waroengin/spotifyautoregister
 6. cd spotitit
 7. php index.php
 
