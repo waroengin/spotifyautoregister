@@ -12,6 +12,6 @@ https://apkcombo.com/id/termux/com.termux/old-versions/0.119.1/
 3. pkg install php
 4. termux-setup-storage
 5. git clone https://github.com/waroengin/spotifyautoregister
-6. cd spotifyautoregist
+6. cd spotifyautoregister
 7. php index.php
 
